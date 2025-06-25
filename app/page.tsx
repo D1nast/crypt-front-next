@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ClientNewsWrapper from "./components/ClientNewsWrapper";
 import Ranking from "./components/Ranking";
 
